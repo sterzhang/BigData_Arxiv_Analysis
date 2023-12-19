@@ -17,3 +17,4 @@ This project is structured as follows:
 
 - `test_if_spark_can_work.py`: Test the Spark environment setup.
 
+![image](https://github.com/sterzhang/BigData_Arxiv_Analysis/assets/119802220/ba29db57-a780-4718-a1f4-c436a54059f4)
