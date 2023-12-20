@@ -10,7 +10,7 @@ This project is structured as follows:
 
 - `crawler_utils`: Contains utilities for crawling data from [Arxiv](https://arxiv.org/).
 
-- `dataset`: Datasets collected from [Arxiv](https://arxiv.org/).
+- `dataset`: Datasets collected from [Arxiv](https://arxiv.org/). To replicate the whole project, you need to download [bert-base-uncased](https://huggingface.co/bert-base-uncased). 
 
 - `results`: The output of data analysis(.csv).
 
