@@ -28,9 +28,9 @@ Below is a list of the scripts along with a brief description of their purpose:
 
    _`cata_kmeans.py`_: Performs K-Means clustering on the dataset to identify distinct groups based on characteristics.
 
-   _`cata_num_rank.py`_: Rank the number of different catagories from 11/30/2022 - 12/01/2023 .
+   _`cata_num_rank.py`_: Rank the number of different catagories from 11/30/2022 - 12/01/2023.
 
-   _`cata_rela_cs.py`_: Analyzes the relationship between different categories .
+   _`cata_rela_cs.py`_: Analyzes the relationship between different categories.
 
    _`cata_rela_sum.py`_: Summarizes the relationships between categories by using a network.
 
