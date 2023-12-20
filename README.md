@@ -28,7 +28,7 @@ Below is a list of the scripts along with a brief description of their purpose:
 
    _`cata_rela_sum.py`_: Summarizes the relationships between categories by using a network.
 
-  _ `cata_wordcloud.py`_: Generates a word cloud from categorical data to visualize the frequency or importance of categories.
+   _`cata_wordcloud.py`_: Generates a word cloud from categorical data to visualize the frequency or importance of categories.
 
    _`month_inter.py`_: Try to find the statistic regularity of the interval of the initial and the last submission.
 
