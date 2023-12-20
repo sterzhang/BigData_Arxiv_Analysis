@@ -2,13 +2,10 @@
 
 Get to know some interesting things concerning the academic frontier in CS by analysing numerous papers in ArXiv.
 
-👋
 
 Group Leader: Jianshu Zhang
 
 Group Member: Yanfu Kai; Ziheng Peng 
-
-👨 
 
 Adviser : Prof. Run Wang
 
