@@ -1,0 +1,39 @@
+tag,count,full_name
+cs.LG,39217,Machine Learning
+cs.CV,26919,Computer Vision
+cs.AI,23600,Artificial Intelligence
+cs.CL,14756,Computational Linguistics
+cs.RO,7620,Robotics
+cs.CR,5944,Cryptography and Security
+cs.IT,4500,Information Theory
+cs.HC,3876,Human-Computer Interaction
+cs.CY,3339,Cybersecurity
+cs.SD,3104,Software Design
+cs.DC,2928,Distributed Computing
+cs.DS,2912,Data Structures
+cs.SE,2902,Software Engineering
+cs.IR,2874,Information Retrieval
+cs.SI,2271,Social Informatics
+cs.NI,2211,Networking and Internet Architecture
+cs.LO,1890,Logic in Computer Science
+cs.NE,1830,Neural and Evolutionary Computing
+cs.GT,1731,Game Theory
+cs.MA,1460,Multiagent Systems
+cs.DM,1451,Discrete Mathematics
+cs.GR,1327,Graphics
+cs.MM,1293,Multimedia
+cs.CC,1156,Computational Complexity
+cs.CE,1103,Computational Engineering
+cs.DB,1055,Databases
+cs.AR,1042,Computer Architecture
+cs.PL,960,Programming Languages
+cs.ET,714,Emerging Technologies
+cs.CG,701,Computational Geometry
+cs.FL,633,Formal Languages
+cs.PF,488,Performance Analysis
+cs.DL,461,Digital Libraries
+cs.SC,272,Symbolic Computation
+cs.MS,214,Mathematical Software
+cs.OS,115,Operating Systems
+cs.OH,74,Other Hardware
+cs.GL,18,General Literature
