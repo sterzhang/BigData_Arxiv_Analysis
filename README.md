@@ -9,8 +9,8 @@ Group Member: Yanfu Kai; Ziheng Peng
 
 Adviser : Prof. Run Wang
 
-[report](https://github.com/sterzhang/BigData_Arxiv_Analysis/blob/main/Report.pdf)
-[pre](https://github.com/sterzhang/BigData_Arxiv_Analysis/blob/main/presentation.pptx)
+[Report](https://github.com/sterzhang/BigData_Arxiv_Analysis/blob/main/Report.pdf)
+[Pre](https://github.com/sterzhang/BigData_Arxiv_Analysis/blob/main/presentation.pptx)
 
 # Our work
 ![image](https://github.com/sterzhang/BigData_Arxiv_Analysis/assets/119802220/e06a5622-6e25-4077-b0e1-52b4ffc17af5)
