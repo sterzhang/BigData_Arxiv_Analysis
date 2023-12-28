@@ -1,7 +1,13 @@
 # 📰 BigData Project : Arxiv_Analysis (Computer Science)
-👋 By Jianshu Zhang(Leader); Yanfu Kai; Ziheng Peng 
 
-👨 Adviser : Prof. Run Wang
+Get to know some interesting things concerning the academic frontier in CS by analysing numerous papers in ArXiv.
+
+
+Group Leader: Jianshu Zhang
+
+Group Member: Yanfu Kai; Ziheng Peng 
+
+Adviser : Prof. Run Wang
 
 # Our work
 ![image](https://github.com/sterzhang/BigData_Arxiv_Analysis/assets/119802220/e06a5622-6e25-4077-b0e1-52b4ffc17af5)
@@ -24,7 +30,7 @@ Below is a list of the scripts along with a brief description of their purpose:
 
    _`cata_num_rank.py`_: Rank the number of different catagories from 11/30/2022 - 12/01/2023 .
 
-   _`cata_rela_cs.py`_: Analyzes the relationship between different categories.
+   _`cata_rela_cs.py`_: Analyzes the relationship between different categories .
 
    _`cata_rela_sum.py`_: Summarizes the relationships between categories by using a network.
 
